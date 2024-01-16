@@ -1,0 +1,10 @@
+indicateur              Quoi                    Pour Qui ?              Objectif d'analyse                              Visualisation               Exemple Visuel               Validite
+
+nb_mails                nombre de mails         profs                   Mettre en avant les                             Entier                      camembert
+                        envoyé par un élève                             matières dans lesquels
+                        aux profs par                                   les élèves ont le plus
+                        semestre                                        de difficultés
+
+
+
+
